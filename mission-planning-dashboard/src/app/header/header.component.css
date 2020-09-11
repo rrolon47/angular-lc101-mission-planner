@@ -1,0 +1,16 @@
+div {
+    display: flex;
+    padding: 10px;
+    background-color: lightslategrey;
+    margin: auto;
+    border: 3px  dashed lightgray;
+    padding: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+ 
+h3 {
+    font-size: larger;
+}
